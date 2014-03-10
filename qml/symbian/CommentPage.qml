@@ -65,6 +65,7 @@ MyPage {
             y:-300
             visible: false
             smooth: true
+            opacity: night_mode?brilliance_control:1
             settings.minimumFontSize: content_font_size
             onLoadStarted: loading=true
             onLoadFinished: {

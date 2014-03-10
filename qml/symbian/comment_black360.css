@@ -20,7 +20,7 @@ h3{visibility:hidden;}
 	
 		/* 添加评论 */
                 .add_comm{position:relative;width:340px!important;height:191px;border:1px #ccc solid;border-top-width:0;background:#888888!important;}
-                        .add_comm textarea{position:absolute;left:15px;top:10px;width:568px;height:120px;border:0;resize:none;outline:none;font-size:14px;line-height:22px;background:none;}
+                        .add_comm textarea{position:absolute;left:15px;top:10px;width:308px!important;height:120px;border:0;resize:none;outline:none;font-size:14px;line-height:22px;background:none;}
 			.add_comm .comm-con{position:absolute;left:inherit;right:105px;bottom:12px;}
 				.add_comm .comm-con span{vertical-align:bottom;color:#ba141d;}
                                 .add_comm .comm-con input.ipt-txt{width:200px;height:34px;border:none;border-bottom:1px #ba141d solid;outline:none;background:none;line-height:40px;text-align:center;font-size:16px;}
@@ -45,12 +45,12 @@ h3{visibility:hidden;}
 						ul li .wp a{color:#bd3e9f;background-position:left -19px;}
                                                 ul li .wap a{color:#c8b0b0!important;background-position:left -57px;}
 						ul li .windows8 a{padding-left:18px;color:#bd3e9f;background-position:left -95px;}
-				.comm_list ul.list li strong{color:#be0028;padding-right:6px;}
-                                .comm_list ul.list li strong.nick{font-size:14px;}/*昵称的颜色*/
+                                .comm_list ul.list li strong{color:#888!important;padding-right:6px;}
+                                .comm_list ul.list li strong.nick{font-size:14px;color:#bbb!important;}/*昵称的颜色*/
 				.comm_list ul.list li.entry .re_info strong{font-weight:normal;}
 				.comm_list ul.list li.entry p{padding:10px 0;line-height:24px;word-wrap:break-word;}
 				.comm_list ul.list li.entry span.comm_reply{float:right;}/*“支持，反对，回复”这几个字的背景*/
-					.comm_list ul.list li.entry span.comm_reply a{color:#be0028!important;}/*“支持，反对，回复”这几个字的属性*/
+                                        .comm_list ul.list li.entry span.comm_reply a{color:#888!important;}/*“支持，反对，回复”这几个字的属性*/
                                 .comm_list ul.list li.entry ul.reply{clear:both;margin:10px 0 0 0;padding:0 8px;border:1px #eeccbb solid;background:#1b1313!important;zoom:1;}/*楼中楼回复的背景色*/
                                         .comm_list ul.list li.entry ul.reply li{*width:100%;color:#e1e1e1!important;}/*楼中楼回复的边框颜色*/
 

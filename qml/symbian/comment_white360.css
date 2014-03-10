@@ -2,4 +2,5 @@ body{
     background-color:#F1F1F1!important}
 div{margin:10;max-width:340px;}
 h3{visibility:hidden;}
+.add_comm textarea{width:308px!important;}/*文本评论区域*/
 .comm_list ul.list li.entry{width:340px!important;}/*回复内容字体等等的设置*/
