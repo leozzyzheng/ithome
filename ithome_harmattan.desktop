@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Terminal=false
+Name=IT之家
+Exec=/usr/bin/invoker --splash /opt/ithome/data/MeeGo.png --type=d -s /opt/ithome/bin/ithome
+Icon=/usr/share/themes/base/meegotouch/ithome/ithomemeego.svg
+X-Window-Icon=
+X-HildonDesk-ShowInToolbar=true
+X-Osso-Type=application/x-executable

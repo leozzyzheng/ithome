@@ -1,0 +1,8 @@
+body{
+    margin:10;
+    max-width:470px;
+    font-size:22;
+    color:#3c3c3c;
+    background-attachment:fixed;
+    background-image: url(meegoBackground.png)!important;}
+img{max-width:460px;height:auto!important}

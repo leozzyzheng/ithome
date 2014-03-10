@@ -1,0 +1,10 @@
+body{
+    margin:10;
+    max-width:630px;
+    font-size:22;
+    color:#3c3c3c;
+    background-color:#F1F1F1!important}
+img{
+    align:"absmiddle";
+    max-width:630px;
+    height:auto!important}

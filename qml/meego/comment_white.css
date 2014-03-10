@@ -1,0 +1,6 @@
+body{
+background-attachment:fixed!important;
+background-image: url(http://http://maruko.appinn.me/config/meegoBackground.png)!important;}
+div{margin:10;max-width:460px;}
+h3{visibility:hidden;}
+.comm_list ul.list li.entry{width:460px!important;}/*回复内容字体等等的设置*/
